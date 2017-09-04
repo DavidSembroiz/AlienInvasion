@@ -1,4 +1,4 @@
-# AlienInvasion
+# Alien Invasion
 
 Small game create to learn the basics of Python.
 
