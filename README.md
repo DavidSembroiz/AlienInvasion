@@ -12,5 +12,4 @@ Python 3 is advisable since Pygame runs faster and smoother in it. To run the ga
 
 ```
 python3 alien_invasion.py
-
 ```
